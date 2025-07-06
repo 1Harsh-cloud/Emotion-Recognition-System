@@ -1,0 +1,11 @@
+tensorflow
+keras
+opencv-python
+librosa
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+flask
+joblib 
