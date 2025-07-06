@@ -158,6 +158,6 @@ emotion-recognition-system/
 ## Acknowledgements
 
 This project was developed as a demonstration of cross-modal, bi-directional emotion recognition using deep learning, computer vision, and audio processing.  
-**Author:** [Your Name]  
-**Date:** [Date] 
+**Author:** Harsh Jain
+
 
